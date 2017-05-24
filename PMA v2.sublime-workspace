@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"o",
+				"oEntity"
+			],
+			[
+				"lis",
+				"listController"
+			],
+			[
+				"list",
+				"listCtrl"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"col",
+				"col-sm-3"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bs3-list",
+				"Snippet: bs3-list-group"
+			],
+			[
+				"bs3t",
+				"Snippet: bs3-table"
+			],
+			[
+				"bs3for",
+				"Snippet: bs3-form-horizontal"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/GitRepositories/PMA v2/app"
+	],
+	"file_history":
+	[
+		"/C/GitRepositories/CAPAINV/frontend/main/app/styles/theme-simplex.css",
+		"/C/GitRepositories/CAPAINV/frontend/main/app/scripts/services/CRUD_Factory.js",
+		"/C/GitRepositories/CAPAINV/frontend/main/app/styles/main.scss",
+		"/C/GitRepositories/CAPAINV/frontend/main/app/scripts/directives/cqaline.js",
+		"/C/GitRepositories/CAPAINV/frontend/main/app/scripts/controllers/cqalist.js",
+		"/C/GitRepositories/Amalgamma API v2/Amal FronEnd/app/index.html",
+		"/C/GitRepositories/Amalgamma API v2/Amalgamma FrontEnd.sublime-project",
+		"/C/Users/zion_/Desktop/Bookmarks - Copy.bak"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<div class=\"conteiner-fluid\">\n    <form class=\"form-horizontal\" role=\"form\">        <div class=\"form-group\">\n            <div class=\"col-sm-3 \">\n                <label>Folio:</label>\n                <p class=\"form-control-static\">000001</p>\n            </div>\n            <div class=\"col-sm-3 col-sm-offset-6\">\n                <label>Date Counted:</label>\n                <p class=\"form-control-static\">06/03/87</p>\n            </div>\n        </div>\n        <div class=\"form-group\">\n            <div class=\"col-sm-3\">\n                <label>Item:</label>\n                <p class=\"form-control-static\">950420</p>\n            </div>\n            <div class=\"col-sm-7\">\n                <label>Item Description:</label>\n                <p class=\"form-control-static\">BUNDLED CABLE ASSEMBLY CHH006</p>\n            </div>\n            <div class=\"col-sm-2\">\n                <label>UM:</label>\n                <p class=\"form-control-static\">EA</p>\n            </div>\n        </div>\n        <div class=\"form-group\">\n            <div class=\"col-sm-3\">\n                <label>STK:</label>\n                <p class=\"form-control-static\">FL</p>\n            </div>\n            <div class=\"col-sm-3\">\n                <label>BIN:</label>\n                <p class=\"form-control-static\">27-00</p>\n            </div>\n            <div class=\"col-sm-3\">\n                <label>IC:</label>\n                <p class=\"form-control-static\">OnHand</p>\n            </div>\n        </div>\n        <div class=\"form-group\">\n            <div class=\"col-sm-9\">\n                <label>Lot:</label>\n                <p class=\"form-control-static\">05020116350216</p>\n            </div>\n        </div>\n        <div class=\"form-group\">\n            <div class=\"col-sm-3\">\n                <label>Count:</label>\n                <input type=\"text\" class=\"form-control\">\n            </div>\n            <div class=\"col-sm-3\">\n                <label>Re-Count</label>\n                <input type=\"text\" class=\"form-control\">\n            </div>\n        </div>\n    </form>\n</div>\n",
+			"areas",
+			"folio",
+			"_setRawAll",
+			"modal-Area",
+			">\n",
+			"SendTransaction",
+			"DoMORV",
+			"DoMORV()",
+			"morv"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PMA v2.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"main",
+				"app\\views\\main.html"
+			],
+			[
+				"int",
+				"app\\index.html"
+			],
+			[
+				"crud",
+				"app\\scripts\\services\\CRUD_Factory.js"
+			],
+			[
+				"entro",
+				"app\\scripts\\controllers\\entercount.js"
+			],
+			[
+				"",
+				"app\\views\\main.html"
+			],
+			[
+				"enter",
+				"app\\views\\entercount.html"
+			],
+			[
+				"inde",
+				"app\\index.html"
+			],
+			[
+				"ti",
+				"app\\scripts\\directives\\ticket.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 400.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
