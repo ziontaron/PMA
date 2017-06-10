@@ -3,6 +3,34 @@
 	{
 		"selected_items":
 		[
+			[
+				"o",
+				"oEntity"
+			],
+			[
+				"lis",
+				"listController"
+			],
+			[
+				"list",
+				"listCtrl"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"col",
+				"col-sm-3"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
 		]
 	},
 	"buffers":
@@ -11,19 +39,66 @@
 			"file": "app/index.html",
 			"settings":
 			{
-				"buffer_size": 3312,
+				"buffer_size": 2824,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/main.html",
+			"settings":
+			{
+				"buffer_size": 1396,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/scripts/controllers/main.js",
+			"settings":
+			{
+				"buffer_size": 212,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 490.0,
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"bs3-list",
+				"Snippet: bs3-list-group"
+			],
+			[
+				"bs3t",
+				"Snippet: bs3-table"
+			],
+			[
+				"bs3for",
+				"Snippet: bs3-form-horizontal"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			]
 		],
-		"width": 0.0
+		"width": 549.0
 	},
 	"console":
 	{
@@ -41,12 +116,27 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/GitRepositories/PMA v2/app",
+		"/C/GitRepositories/PMA v2/app/scripts",
+		"/C/GitRepositories/PMA v2/app/scripts/controllers",
+		"/C/GitRepositories/PMA v2/app/views"
+	],
 	"file_history":
 	[
+		"/C/GitRepositories/CAPAINV/frontend/main/app/styles/theme-simplex.css",
+		"/C/GitRepositories/CAPAINV/frontend/main/app/scripts/services/CRUD_Factory.js",
+		"/C/GitRepositories/CAPAINV/frontend/main/app/styles/main.scss",
+		"/C/GitRepositories/CAPAINV/frontend/main/app/scripts/directives/cqaline.js",
+		"/C/GitRepositories/CAPAINV/frontend/main/app/scripts/controllers/cqalist.js",
+		"/C/GitRepositories/Amalgamma API v2/Amal FronEnd/app/index.html",
+		"/C/GitRepositories/Amalgamma API v2/Amalgamma FrontEnd.sublime-project",
+		"/C/Users/zion_/Desktop/Bookmarks - Copy.bak"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 33.0
 	},
 	"find_in_files":
 	{
@@ -60,8 +150,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"31164-1260 RKS\n31164-1260=R\n31164-1350 RKS\n31164-1350=R\n31164-1420=R\n31164-1420RKS\n31164-5532=R\n31176-1050=R\n31216-1080 RKS\n31216-1080=R\n31216-1180=R\n31216-1210=R\n31216-1480\n31216-1481\n31216-1482\n30076-2361\n31164-1410\n31164-1420\n23046-310_319\n23064-300-1\n23065-310\n23072-317\n23075-311\n23075-312\n23075-313\n23076-342\n23092-300\n31130-300=R\n31164-1350\n31164-5532\n31169-1093\n23069-342\n52-230038\n52-230064\n52-230065\n52-230066\n52-230067\n52-230068\n52-230075",
-			"1"
+			"<div class=\"conteiner-fluid\">\n    <form class=\"form-horizontal\" role=\"form\">        <div class=\"form-group\">\n            <div class=\"col-sm-3 \">\n                <label>Folio:</label>\n                <p class=\"form-control-static\">000001</p>\n            </div>\n            <div class=\"col-sm-3 col-sm-offset-6\">\n                <label>Date Counted:</label>\n                <p class=\"form-control-static\">06/03/87</p>\n            </div>\n        </div>\n        <div class=\"form-group\">\n            <div class=\"col-sm-3\">\n                <label>Item:</label>\n                <p class=\"form-control-static\">950420</p>\n            </div>\n            <div class=\"col-sm-7\">\n                <label>Item Description:</label>\n                <p class=\"form-control-static\">BUNDLED CABLE ASSEMBLY CHH006</p>\n            </div>\n            <div class=\"col-sm-2\">\n                <label>UM:</label>\n                <p class=\"form-control-static\">EA</p>\n            </div>\n        </div>\n        <div class=\"form-group\">\n            <div class=\"col-sm-3\">\n                <label>STK:</label>\n                <p class=\"form-control-static\">FL</p>\n            </div>\n            <div class=\"col-sm-3\">\n                <label>BIN:</label>\n                <p class=\"form-control-static\">27-00</p>\n            </div>\n            <div class=\"col-sm-3\">\n                <label>IC:</label>\n                <p class=\"form-control-static\">OnHand</p>\n            </div>\n        </div>\n        <div class=\"form-group\">\n            <div class=\"col-sm-9\">\n                <label>Lot:</label>\n                <p class=\"form-control-static\">05020116350216</p>\n            </div>\n        </div>\n        <div class=\"form-group\">\n            <div class=\"col-sm-3\">\n                <label>Count:</label>\n                <input type=\"text\" class=\"form-control\">\n            </div>\n            <div class=\"col-sm-3\">\n                <label>Re-Count</label>\n                <input type=\"text\" class=\"form-control\">\n            </div>\n        </div>\n    </form>\n</div>\n",
+			"areas",
+			"folio",
+			"_setRawAll",
+			"modal-Area",
+			">\n",
+			"SendTransaction",
+			"DoMORV",
+			"DoMORV()",
+			"morv"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -89,15 +187,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3312,
+						"buffer_size": 2824,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3168,
-								3168
+								981,
+								981
 							]
 						],
 						"settings":
@@ -107,10 +205,68 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 240.0,
+						"translation.y": 400.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1198,
+								1198
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/scripts/controllers/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -118,11 +274,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 33.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 43.0
 	},
 	"layout":
 	{
@@ -151,23 +307,62 @@
 	{
 		"height": 0.0
 	},
-	"project": "pma v2.sublime-project",
+	"pinned_build_system": "",
+	"project": "PMA v2.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 2930.0
 	},
 	"save_all_on_build": true,
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"main",
+				"views\\main.html"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"int",
+				"app\\index.html"
+			],
+			[
+				"crud",
+				"app\\scripts\\services\\CRUD_Factory.js"
+			],
+			[
+				"entro",
+				"app\\scripts\\controllers\\entercount.js"
+			],
+			[
+				"",
+				"app\\views\\main.html"
+			],
+			[
+				"enter",
+				"app\\views\\entercount.html"
+			],
+			[
+				"inde",
+				"app\\index.html"
+			],
+			[
+				"ti",
+				"app\\scripts\\directives\\ticket.js"
+			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -176,19 +371,21 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},
 	"show_minimap": true,
-	"show_open_files": false,
+	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 188.0,
+	"side_bar_visible": false,
+	"side_bar_width": 200.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
