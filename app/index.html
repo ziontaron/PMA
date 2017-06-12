@@ -10,12 +10,15 @@
     <!-- build:css(.) styles/vendor.css -->
     <!-- bower:css -->
     <link rel="stylesheet" href="bower_components/angular-gridster/dist/angular-gridster.css" />
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="bower_components/slick-carousel/slick/slick.css" />
     <!-- endbower -->
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+
     <!-- endbuild -->
     <!-- build:css(.tmp) styles/main.css -->
     <link rel="stylesheet" href="styles/main.css">
     <link rel="stylesheet" href="styles/w3.css">
-
     <script>
     function w3_open() {
         document.getElementById("mySidebar").style.display = "block";
@@ -35,11 +38,21 @@
     <!-- Add your site or application content here -->
     <div class=".container-fluid row">
         <div class="col-md-1"></div>
-        <div class="col-md-10" ng-view="">
+        <div class="col-md-1">
+            <div class="w3-sidebar w3-bar-block w3-collapse w3-card-2" style="width:200px;" id="mySidebar">
+                <ul>
+                    <li><a href="#Sec_GPMA" du-smooth-scroll du-scrollspy>Grupo PMA</a></li>
+                    <li><a href="#Sec_Clientes" du-smooth-scroll du-scrollspy>Clientes</a></li>
+                    <li><a href="#Sec_Conocenos" du-smooth-scroll du-scrollspy>Conocenos</a></li>
+                    <li><a href="#Sec_Contacto" du-smooth-scroll du-scrollspy>Contacto</a></li>
+                    <li><a href="#section-5" du-smooth-scroll du-scrollspy>Section 5</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-9" ng-view="">
         </div>
         <div class="col-md-1"></div>
     </div>
-    
     <!-- build:js(.) scripts/vendor.js -->
     <!-- bower:js -->
     <script src="bower_components/jquery/dist/jquery.js"></script>
@@ -54,6 +67,10 @@
     <script src="bower_components/angular-scroll/angular-scroll.js"></script>
     <script src="bower_components/javascript-detect-element-resize/detect-element-resize.js"></script>
     <script src="bower_components/angular-gridster/src/angular-gridster.js"></script>
+    <script src="bower_components/tether/dist/js/tether.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="bower_components/slick-carousel/slick/slick.js"></script>
+    <script src="bower_components/angular-slick-carousel/dist/angular-slick.js"></script>
     <!-- endbower -->
     <!-- endbuild -->
     <!-- build:js({.tmp,app}) scripts/scripts.js -->
@@ -67,7 +84,6 @@
     <script src="scripts/app.js"></script>
     <script src="scripts/controllers/main.js"></script>
     <script src="scripts/controllers/about.js"></script>
-    
     <!-- endbui
 </body>
 

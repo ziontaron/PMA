@@ -32,6 +32,10 @@ module.exports = function(config) {
       'bower_components/angular-scroll/angular-scroll.js',
       'bower_components/javascript-detect-element-resize/detect-element-resize.js',
       'bower_components/angular-gridster/src/angular-gridster.js',
+      'bower_components/tether/dist/js/tether.js',
+      'bower_components/bootstrap/dist/js/bootstrap.js',
+      'bower_components/slick-carousel/slick/slick.js',
+      'bower_components/angular-slick-carousel/dist/angular-slick.js',
       'bower_components/angular-mocks/angular-mocks.js',
       // endbower
       'app/scripts/**/*.js',

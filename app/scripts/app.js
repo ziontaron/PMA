@@ -11,12 +11,12 @@
 angular
   .module('pmaApp', [
     'ngAnimate',
-    'ngCookies',
-    'ngResource',
     'ngRoute',
     'ngSanitize',
     'ngTouch',
-    'duScroll'
+    'duScroll',
+    'slickCarousel',
+    'gridster'
   ])
   .config(function ($routeProvider) {
     $routeProvider
