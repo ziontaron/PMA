@@ -19,11 +19,19 @@
 <div class="container fluid">
     <div class="w3-teal">
         <button class="w3-button w3-teal w3-xlarge w3-hide-large" onclick="w3_open()">&#9776;</button>
-        <div class="w3-container">
+        <!-- <div class="w3-container">
             <h1>My Page</h1>
-        </div>
+        </div> -->
     </div>
     <div class="wrap">
+        <section id="Sec_GPMA2">
+            <!-- <div ng-include="portada.htm">
+            </div> -->
+            test
+            <div>
+                <ng-include src="../views/portada.html" ></ng-include>
+            </div>
+        </section>
         <section id="Sec_GPMA">
             <h2>Grupo PMA</h2>
             <div gridster="gridsterOpts">
@@ -95,7 +103,6 @@
                 </div>
             </div>
         </section>
-        
         <section id="Sec_Clientes">
             <h2>Clientes</h2>
             <div class="jumbotron">
