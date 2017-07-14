@@ -18,6 +18,7 @@
     <!-- build:css(.tmp) styles/main.css -->
     <link rel="stylesheet" href="styles/main.css">
     <link rel="stylesheet" href="styles/w3.css">
+    <link rel="stylesheet" href="styles/pma-styles.css">
     <script>
     function w3_open() {
         document.getElementById("mySidebar").style.display = "block";
@@ -35,10 +36,10 @@
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
     <!-- Add your site or application content here -->
-    <div class=".container-fluid row">
+    <div class=".container-fluid row" id="fondo">
         <div class="col-md-1"></div>
         <div class="col-md-1">
-            <div class="w3-sidebar w3-bar-block w3-collapse w3-card-2" style="width:200px;" id="mySidebar">
+           <!--  <div class="w3-sidebar w3-bar-block w3-collapse w3-card-2" style="width:200px;" id="mySidebar">
                 <div>
                     <img src="../images/pma_logo.png" href="#Sec_GPMA" du-smooth-scroll du-scrollspy height="50%" width="50%">
                 </div>
@@ -51,7 +52,9 @@
                         <li><a href="#section-5" du-smooth-scroll du-scrollspy>Section 5</a></li>
                     </ul>
                 </div>
-            </div>
+            </div> -->
+            
+            <div ng-include src="'views/sidebar.html'"></div>
         </div>
         <div class="col-md-9" ng-view="">
         </div>
